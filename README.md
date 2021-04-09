@@ -1,7 +1,7 @@
 # Project - YouTube Redesign
 ***
 ## Описание проекта
-Проект был создан в рамках практики по верстке. Верстка была по интенсиву "Свой Youtube на HTML и CSS". Данная версия макета пока не адаптирована.
+Проект был создан в рамках практики по верстке. Верстка была по интенсиву "Свой Youtube на HTML и CSS". Данная версия макета адаптирована под десктоп и мобильные девайсы.
 ## Ссылка на github pages
 [Щелк!](https://walkingfrozenfish.github.io/YouTubeRedesign/)
 
@@ -13,4 +13,4 @@ normalize.css   | Нормалайзер CSS от Nicolas Gallagher
 index.html      | Индексный файл
 
 ## Скриншот проекта
-![Скриншот](#)
+![Скриншот](https://github.com/WalkingFrozenFish/YouTubeRedesign/blob/main/img/cover/img.jpg)
